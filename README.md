@@ -1,7 +1,6 @@
 # Lead-Management-API
 <img width="1536" height="1024" alt="ledaerboard api" src="https://github.com/user-attachments/assets/b2f37d66-f140-47ff-872e-2ac53286dd91" />
-📌 Lead Management API — Node.js + Express + MySQ
-"C:\Users\Neha\Downloads\ledaerboard api.png"
+📌 Lead Management API — Node.js + Express + MySQL
 A backend API for capturing and managing sales leads in the marketing sector.
 Includes key features such as funnel stages, CRM sync (mock), and notes/comments to streamline your sales process.
 🚀 Features
