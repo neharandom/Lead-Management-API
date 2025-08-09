@@ -1,5 +1,6 @@
 # Lead-Management-API
 📌 Lead Management API — Node.js + Express + MySQL
+![Uploading image.png…]()
 A backend API for capturing and managing sales leads in the marketing sector.
 Includes key features such as funnel stages, CRM sync (mock), and notes/comments to streamline your sales process.
 🚀 Features
